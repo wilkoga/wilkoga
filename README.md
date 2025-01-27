@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Tentando fazer o github me aceitar como estudante denovo!
+
 <!--
 **wilkoga/wilkoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
